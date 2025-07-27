@@ -4,3 +4,4 @@ __pychache__/
 *.sqlite3
 *.DS_Store
 .idea/
+config/firebase/financial-tracker-ai-firebase-adminsdk-fbsvc-095fc94a81.json
