@@ -1,0 +1,5 @@
+virtual_env/
+__pychache__/
+*.pyc
+*.sqlite3
+.DS_Store
