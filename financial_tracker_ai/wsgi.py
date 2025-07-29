@@ -1,5 +1,5 @@
 """
-WSGI config for financial_tracker_ai project.
+WSGI firebase_config for financial_tracker_ai project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 

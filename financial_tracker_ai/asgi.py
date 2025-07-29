@@ -1,5 +1,5 @@
 """
-ASGI config for financial_tracker_ai project.
+ASGI firebase_config for financial_tracker_ai project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
